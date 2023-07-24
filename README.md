@@ -1,4 +1,4 @@
 # Superstore-Analysis
 This project centers around conducting a thorough analysis of the SuperStore dataset, which comprises sales data from a fictitious retail store. The primary objective is to extract valuable insights regarding the store's performance and to know about specific areas that offer potential for enhancement and growth.
-#Agenda
+# Agenda
 To find out the weak areas where the business manager can work to make more profit and deriving the business problems by exploring the data . I am going to work on a Super store dataset to analyze to data and get some useful insights about the features available, which in-turn will help the organization to improve their business and increase their profit. I found this dataset an ideal real-life dataset to implement all. By conducting a comprehensive case study analysis of Superstore, the project aims to shed light on the factors that contribute to its success or challenges, provide insights for improvement, and offer valuable lessons for the retail industry as a whole.
